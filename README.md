@@ -23,7 +23,7 @@ Otherwise create your admins user account:
 #### STEP 4: Clone the dotfiles from these reporitory
 
     git clone https://github.com/andsens/homeshick.git $HOME/.homesick/repos/homeshick
-    ~/.homesick/repos/homeshick/bin/homeshick clone mamiu/dotfiles
+    ~/.homesick/repos/homeshick/bin/homeshick clone arzi1994/dotfiles
 
 #### STEP 5: Setup fish as login shell
 
@@ -42,7 +42,7 @@ Otherwise create your admins user account:
 #### STEP 8: Clone the dotfiles from these reporitory
 
     git clone https://github.com/andsens/homeshick.git $HOME/.homesick/repos/homeshick
-    ~/.homesick/repos/homeshick/bin/homeshick clone mamiu/dotfiles
+    ~/.homesick/repos/homeshick/bin/homeshick clone arzi1994/dotfiles
     
 #### STEP 9: Setup fish as login shell
 
