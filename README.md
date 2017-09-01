@@ -82,6 +82,12 @@ Otherwise you have to call:
 
     AcceptEnv TMUX_AUTOSTART
 
+#### Workaround for Windows cygwin `~/.bashrc`:
+
+    # workaround for win
+    fish -l
+    exit
+
 <br>
 <br>
 
